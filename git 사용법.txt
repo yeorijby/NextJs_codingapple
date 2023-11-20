@@ -16,14 +16,14 @@ git switch 브렌치명     => 브렌치명으로 브렌치를 변경하는 기�
 
 
 
-https://github.com/yeorijby/1HourReactBiginer.git
+https://github.com/yeorijby/NextJs_codingapple.git
 
 git init
 git add *
 git commit -m "first commit"
 git branch -M main
 git remote remove origin
-git remote add origin https://github.com/yeorijby/1HourReactBiginer.git
+git remote add origin https://github.com/yeorijby/NextJs_codingapple.git
 git push -u origin main
 
 
